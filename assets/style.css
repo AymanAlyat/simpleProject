@@ -1,0 +1,45 @@
+.nav-width{
+
+    max-width:  1120px;
+    margin: auto;
+}
+.bg-nav{
+    background-color: #212529 !important;
+    
+}
+.bg-header{
+ background-color: #0d64fd !important;
+}
+.padding-top-header{
+    padding-top: 150px !important;
+    padding-bottom: 15px;
+}
+.padding-btn-header{
+    margin-bottom: 120px;
+    font-size: 25px;
+}
+.width-pragraph{
+    max-width:  730px;
+    word-spacing: 4px;
+}
+.my-container{
+   max-width: 900px;
+   margin: auto;
+   padding-left: 30px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.my-container-footer{
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.bg-section2{
+    background-color: #f8f9fa;
+}
+footer p{
+    color: white;
+    margin-top: 110px;
+}
